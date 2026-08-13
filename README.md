@@ -1,5 +1,8 @@
 <div align="center">
 
+<img src="assets/profile.png" alt="Clément Bouni" width="180"/>
+
+
 # Clément Bouni
 
 **Telecom Engineer — Network & Information Systems Security**
