@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/profile.png" alt="Clément Bouni" width="180"/>
+<img src="481060017_948838320719343_42.png" alt="Clément Bouni" width="180"/>
 
 
 # Clément Bouni
